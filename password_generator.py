@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 29 16:15:37 2024
 
-@author: USER
+@author: Mahfuzur Rahman
 """
 
 # password_generator.py
