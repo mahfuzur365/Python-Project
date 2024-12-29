@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 29 16:12:34 2024
 
-@author: USER
+@author: Mahfuzur Rahman
 """
 
 # simple_calculator.py
